@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.codecafe.database</groupId>
-	<artifactId>database-demo</artifactId>
+	<artifactId>springboot-database-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>database-demo</name>
+	<name>springboot-database-demo</name>
 	<description>Demo project for Spring Boot with JPA and Hibernate</description>
 	<properties>
 		<java.version>1.8</java.version>
